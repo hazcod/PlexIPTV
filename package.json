@@ -33,7 +33,7 @@
     "colors": "^1.2.4",
     "debug": "^3.1.0",
     "eslint-plugin-promise": "^3.7.0",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "filendir": "^1.0.1",
     "install": "^0.11.0",
     "lodash": "^4.17.10",
@@ -44,7 +44,7 @@
     "once": "^1.2.0",
     "pkg": "^4.3.1",
     "q": "^1.5.1",
-    "request": "2.27.0",
+    "request": "2.88.2",
     "stack-trace": "0.0.10",
     "supports-color": "^5.4.0",
     "valid-url": "^1.0.9"
